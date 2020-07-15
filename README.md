@@ -1,2 +1,2 @@
 # my-pet-store
-Created with CodeSandbox
+A pet store created with Vue.js
